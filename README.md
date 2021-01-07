@@ -18,6 +18,6 @@ description: 云原生社区可观察性 SIG
 
 #### 负责人
 
+* [柯振旭](https://github.com/kezhenxu94)
 * [陈晨](https://github.com/chenmudu)
-* [柯振旭](http://github.com/kezhenxu94)
 
