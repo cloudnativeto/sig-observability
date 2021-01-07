@@ -1,5 +1,5 @@
 ---
-description: 云原生社区 Observability Sig
+description: 云原生社区可观察性 SIG
 ---
 
 # 欢迎
@@ -10,9 +10,9 @@ description: 云原生社区 Observability Sig
 
 请填写[申请表](https://wj.qq.com/s2/7823487/2743/)加入微信交流群和参与社区活动。
 
-### 如何提问 ?
+### 如何提问？
 
-若你有关于 Istio 的问题请[提交Issue](https://github.com/cloudnativeto/sig-observability/issues),并将 Issue 链接发到可观察性 SIG 的微信群中讨论。
+若你有关于可观察性的问题请[提交Issue](https://github.com/cloudnativeto/sig-observability/issues)，并将 Issue 链接发到可观察性 SIG 的微信群中讨论。
 
 ## 联系
 
