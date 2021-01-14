@@ -7,7 +7,7 @@
 * [可观察性新的定义](xu-zhang/ke-guan-cha-xing-xin-de-ding-yi.md)
 * [可观察性所面临的挑战](xu-zhang/ke-guan-cha-xing-suo-mian-lin-de-tiao-zhan.md)
 
-## 1. 三大关键性指标 <a id="san-da-guan-jian-xing-zhi-biao"></a>
+## 1. 可观测性三大支柱 <a id="san-da-guan-jian-xing-zhi-biao"></a>
 
 * [1.1 Tracing](san-da-guan-jian-xing-zhi-biao/1.1-tracing.md)
 * [1.2 Metrics](san-da-guan-jian-xing-zhi-biao/1.2-metrics.md)
@@ -32,4 +32,8 @@
 ## 6. 公众号文章列表
 
 * [待补充](6.-gong-zhong-hao-wen-zhang-lie-biao/dai-bu-chong.md)
+
+## 7. 其他
+
+* [7.1 SIG小组分享会](7.-qi-ta/7.1-sig-xiao-zu-fen-xiang-hui.md)
 
