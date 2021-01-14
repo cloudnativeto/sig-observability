@@ -21,9 +21,9 @@
 
 * [待补充](share/temporarily.md)
 
-## 4. 相关领域下的实践
+## 4. 相关领域下的实践 <a id="practice"></a>
 
-* [待补充](4.-xiang-guan-ling-yu-xia-de-shi-jian/temporarily.md)
+* [待补充](practice/temporarily.md)
 
 ## 5. 外部资料和链接 <a id="link"></a>
 
