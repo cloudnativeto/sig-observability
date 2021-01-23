@@ -9,7 +9,7 @@ description: 依据其他学科成熟稳定的概念迁移至软件工程领域�
 #### 系统控制
 
 * 控制理论：工程学与数学的跨领域分支，主要处理有输入信号的[动力系统](https://zh.wikipedia.org/wiki/%E5%8A%A8%E5%8A%9B%E7%B3%BB%E7%BB%9F)的行为，是一个用于研究如何调整动态系统特性的理论。
-* [制理论的主题](https://zh.wikipedia.org/wiki/%E6%8E%A7%E5%88%B6%E7%90%86%E8%AE%BA#%E6%8E%A7%E5%88%B6%E7%90%86%E8%AB%96%E4%B8%BB%E9%A1%8C)包含：稳定性、可控制性和可观察性、控制规格及其他。
+* [控制理论的主题](https://zh.wikipedia.org/wiki/%E6%8E%A7%E5%88%B6%E7%90%86%E8%AE%BA#%E6%8E%A7%E5%88%B6%E7%90%86%E8%AB%96%E4%B8%BB%E9%A1%8C)包含：稳定性、可控制性和可观察性、控制规格及其他。
 * [系统的分类](https://zh.wikipedia.org/wiki/%E6%8E%A7%E5%88%B6%E7%90%86%E8%AE%BA#%E7%B3%BB%E7%B5%B1%E5%88%86%E9%A1%9E)：线性系统控制、非线性系统控制及分散式系统。
 * [控制理论的的可观察性](https://zh.wikipedia.org/wiki/%E6%8E%A7%E5%88%B6%E7%90%86%E8%AE%BA#%E5%8F%AF%E6%8E%A7%E5%88%B6%E6%80%A7%E5%8F%8A%E5%8F%AF%E8%A7%80%E6%B8%AC%E6%80%A7)：系统可以由外部输出推断出内部状态的程度，最早由匈牙利裔工程师[鲁道夫·卡尔曼](https://zh.wikipedia.org/wiki/%E9%B2%81%E9%81%93%E5%A4%AB%C2%B7%E5%8D%A1%E5%B0%94%E6%9B%BC)提出。
 
