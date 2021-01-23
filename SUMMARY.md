@@ -4,18 +4,18 @@
 
 ## 序章 <a id="prologue"></a>
 
-* [可观察性新的定义](prologue/definition.md)
-* [可观察性所面临的挑战](prologue/challenge.md)
+* [可观察性定义](prologue/definition.md)
+* [所面临的挑战](prologue/challenge.md)
 
 ## 1. 可观测性三大支柱 <a id="pillar"></a>
 
-* [1.1 Tracing](pillar/tracing.md)
+* [1.1 Traces](pillar/traces.md)
 * [1.2 Metrics](pillar/metrics.md)
-* [1.3 Logging](pillar/logging.md)
+* [1.3 Logs](pillar/logs.md)
 
-## 2. 新的统一协议Otel <a id="open-telemetry"></a>
+## 2. 新的统一协议Otel <a id="otel"></a>
 
-* [待补充](open-telemetry/temporarily.md)
+* [待补充](otel/temporarily.md)
 
 ## 3. 相关领域下的分享 <a id="share"></a>
 
