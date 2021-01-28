@@ -21,7 +21,9 @@ description: 云原生社区可观察性 SIG
 * [柯振旭](https://github.com/kezhenxu94)
 * [陈晨](https://github.com/chenmudu)
 
-## 致谢
+#### 委员
 
-
+* [陈一枭](https://github.com/tensorchen)
+* [傅轶](https://github.com/ethfoo)
+* [王鹏翰](https://github.com/WPH95)
 

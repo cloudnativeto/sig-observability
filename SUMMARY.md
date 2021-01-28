@@ -34,7 +34,7 @@
 * [文章之Sig成立](contentlist/buiorg.md)
 * [待补充](contentlist/temporarily.md)
 
-## 7. 其他 <a id="others"></a>
+## 7. 小组会议 <a id="meeting"></a>
 
-* [7.1 SIG小组会议](others/meeting.md)
+* [7.1 2021.01.28](meeting/firstmetting.md)
 
