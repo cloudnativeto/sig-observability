@@ -32,6 +32,7 @@
 ## 6. 公众号文章列表 <a id="contentlist"></a>
 
 * [文章之Sig成立](contentlist/buiorg.md)
+* [欢迎加入云原生社区 可观察性 SIG](contentlist/sig-welcome.md)
 * [待补充](contentlist/temporarily.md)
 
 ## 7. 小组会议 <a id="meeting"></a>
